@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jennie Marvin-Towne",
+      "id": 3
+    },
+    {
+      "name": "Joyce Goldner",
+      "id": 4
+    },
+    {
+      "name": "Regina Fadel",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Bronze Cheese",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Frozen Ball",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Rubber Mouse",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Wooden Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Wooden Chips",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Luxurious Granite Car",
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=807187144245248",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6095811393880064",
+      "id": 4
+    }
+  ]
+}
